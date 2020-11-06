@@ -1,7 +1,8 @@
 {
   "headers": {
     "/*": {
-      "X-Author": "sangvuba"
+      "X-Author": "sangvuba",
+      "Access-Control-Allow-Origin": "*"
     }
   }  
 }
